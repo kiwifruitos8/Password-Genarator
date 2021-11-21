@@ -1,2 +1,2 @@
 # Password-Genarator
-A bsic Password genarator Built using Python
+A basic Password genarator Built with Python
